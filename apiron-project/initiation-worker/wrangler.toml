@@ -1,0 +1,7 @@
+name = "initiation-worker"
+main = "src/index.js"
+compatibility_date = "2023-08-05"
+type = "javascript"
+account_id = "b915d70e62756d79c6b4a819a6a352f6"
+[triggers]
+crons = [ "1 * * * *" ]
